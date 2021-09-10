@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.naver.android.helloyako:imagecropview:1.2.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a176520f9aa64e525956c50f33d70778/jetified-imagecropview-1.2.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a176520f9aa64e525956c50f33d70778/jetified-imagecropview-1.2.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a176520f9aa64e525956c50f33d70778/jetified-imagecropview-1.2.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.naver.android.helloyako/imagecropview/1.2.3/d3a65414ded1ee2134549af9e282babcf3eea955/imagecropview-1.2.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.naver.android.helloyako/imagecropview/1.2.3/e27f04386109ae886524d3b8f017d77c6d790bd0/imagecropview-1.2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
